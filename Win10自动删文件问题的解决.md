@@ -4,4 +4,4 @@
 ### 如图
 ![alt](https://github.com/SarahYu1997/Learning-notes/blob/master/imgs/2.png)
 ### 如图
-![alt] (https://github.com/SarahYu1997/Learning-notes/blob/master/imgs/3.png)
+![alt](https://github.com/SarahYu1997/Learning-notes/blob/master/imgs/3.png)
