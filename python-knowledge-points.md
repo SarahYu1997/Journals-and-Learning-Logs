@@ -4,3 +4,12 @@
 
 在python2中，用`super(son-class-name,self).__init__()`调用父类的函数（该例调用的是初始化函数），这句代码意思是将子类的对象self转换为父类的对象，再用这个“self”去调用父类的函数;  
 在python3中，直接用super().__init__()代替。
+
+#### for in 语句
+in后面是dictionary类型时，遍历的是键：
+```python
+d = {'a':'apple', 'b':'banana', 'c':'car', 'd': 'desk'}
+for key in d:
+    # 遍历字典时遍历的是键
+    print(key, d.get(key))  # key的值是string类型->a
+```
